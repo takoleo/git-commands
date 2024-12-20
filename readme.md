@@ -21,3 +21,13 @@ Liste des commandes git
 # git log  or git log --oneline
 - Permet de lister les modifications
 
+
+# git branch feature/nomDeLaBranche
+- Permet de creer une branche
+
+# git  checkout feature/nomDeLaBranche
+- permet de switcher sur la branche
+- une branche c'est un repertoire
+
+# git push --set-upstream origin feature/code-html
+- permet de fai
