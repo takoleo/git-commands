@@ -32,3 +32,6 @@ Liste des commandes git
 
 # git push --set-upstream origin feature/code-html
 - permet de faire l association entre deux branche  en les push au meme moment
+
+# git checkout -b (feature/codecss)
+- Permet le -b de creer une branche et switcher dessus directement
