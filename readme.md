@@ -12,7 +12,7 @@ Liste des commandes git
 - Permet d'enregistrer une modification.
 
 # git push 
-- Permet de pousser les modification en ligne
+- Permet de pousser les modification en ligne..
         
 # git status
 - Permet de verifier les status du repertoire.
