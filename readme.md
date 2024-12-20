@@ -21,3 +21,6 @@ Liste des commandes git
 # git log  or git log --oneline
 - Permet de lister les modifications
 
+# git checkout -b (feature/codecss)
+- Permet le -b de creer une branche et switcher dessus directement
+
