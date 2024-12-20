@@ -26,4 +26,7 @@ Liste des commandes git
 
 # git  checkout feature/nomDeLaBranche
 - permet de switcher sur la branche
+- une branche c'est un repertoire
 
+# git push --set-upstream origin feature/code-html
+- permet de faire l association entre deux branche  en les push au meme moment
