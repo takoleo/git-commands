@@ -9,7 +9,7 @@ Liste des commandes git
 - Permet d'ajouter un fichier ou les modifications dans le staging area
 
 # git commit 
-- Permet d'enregistrer une modification
+- Permet d'enregistrer une modification.
 
 # git push 
 - Permet de pousser les modification en ligne
