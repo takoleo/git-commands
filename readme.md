@@ -29,13 +29,3 @@ Liste des commandes git
 # git  checkout feature/nomDeLaBranche
 - permet de switcher sur les different branche
 - une branche c'est un repertoire
-
-# git push --set-upstream origin feature/code-html
-- permet de faire l association entre deux branche  en les push au meme moment
-
-# git checkout -b (feature/codecss)
-- Permet le -b de creer une branche et switcher dessus directement
-
-# git pull 
-- Permet de recuperer les modification distantes
-
