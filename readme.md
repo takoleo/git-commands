@@ -18,6 +18,6 @@ Liste des commandes git
 - Permet de verifier les status du repertoire.
 - Permet de lister les modification a traiter.
 
-# git log 
+# git log  or git log --oneline
 - Permet de lister les modifications
 
