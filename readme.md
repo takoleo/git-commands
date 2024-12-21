@@ -48,3 +48,11 @@ Liste des commandes git
 
 # git merge 
 Permet de recuperer les donnees du fils vers le parents
+
+# git reset --hard  5e815cf (index de la branche ou on veut revenir)
+- Permet de suprimer un commit
+- Permet de revenir a un commit defini par son identifiant
+- Attention a utiliser avec precaution
+
+# git clone https://github.com/takoleo/git-commands.git (repositiry sur github)
+- Permet de cloner le projet sur github en locale 
