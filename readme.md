@@ -44,3 +44,4 @@ Liste des commandes git
 - Les modification de la branche mere sont placees en dessous des modifcations de la branche courante
 - les modification de la branche courante sont placee au dessus des modification de la branche mere.
 
+
