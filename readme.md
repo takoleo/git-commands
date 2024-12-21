@@ -41,7 +41,10 @@ Liste des commandes git
 
 # git rebase
 - Permet de recuperer les modification de la branche mere
+- permet de recuperer les donnees du parent vers le fils
 - Les modification de la branche mere sont placees en dessous des modifcations de la branche courante
 - les modification de la branche courante sont placee au dessus des modification de la branche mere.
 
 
+# git merge 
+Permet de recuperer les donnees du fils vers le parents
